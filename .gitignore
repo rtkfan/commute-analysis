@@ -1,0 +1,12 @@
+# ignore secrets file
+secrets.py
+
+# ignore strava upload files
+strava_*.csv
+
+# ignore Jupyter checkpoints and temp files
+.ipynb_checkpoint*
+__pycache*
+
+# ignore excel checks etc.
+*.xlsx
